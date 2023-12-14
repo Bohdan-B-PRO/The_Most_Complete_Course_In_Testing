@@ -122,6 +122,8 @@
 
 58. **Социальные и Личные Вопросы**: Я включу вопросы, касающиеся социальных и личных аспектов работы тестировщика, чтобы лучше понять важность коммуникационных навыков и работы в команде.
 
+* [Ручное тестирование ПО](https://github.com/Bohdan-B-PRO/The_Most_Complete_Course_In_Testing/tree/master/Manual_Testing)
+* [Автоматическое тестирование ПО](https://github.com/Bohdan-B-PRO/The_Most_Complete_Course_In_Testing/tree/master/Automatic_Testing)
 
 ### Заключение
 
