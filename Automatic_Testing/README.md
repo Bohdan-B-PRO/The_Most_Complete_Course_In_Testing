@@ -1,5 +1,5 @@
-![](https://files.oaiusercontent.com/file-6WCLNOZHYhtOvkTd4YSSgBXu?se=2023-12-14T15%3A37%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfb59f1dd-4f71-41c2-a386-51782f202bf5.webp&sig=TBN4Jy06vpmDy2QM4RFhNuqvaKxee5D0KIDfQyVKy3o%3D)
-
+[//]: # (![]&#40;https://files.oaiusercontent.com/file-6WCLNOZHYhtOvkTd4YSSgBXu?se=2023-12-14T15%3A37%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfb59f1dd-4f71-41c2-a386-51782f202bf5.webp&sig=TBN4Jy06vpmDy2QM4RFhNuqvaKxee5D0KIDfQyVKy3o%3D&#41;)
+![](https://daglab.ru/wp-content/uploads/2018/07/2015-12-06_163558.jpg)
 ### Описание для README.md Файла по Автоматизированному Тестированию
 
 #### Введение
