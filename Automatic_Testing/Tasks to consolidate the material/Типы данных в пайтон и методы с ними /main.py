@@ -60,26 +60,52 @@ def enhanced_fruits():
     return fruits_generator()
 
 
+def dictionaries():
+    countries = {
+        "Austria": "Vienna",
+        "Nicaragua": "Managua",
+        "Netherlands": "Amsterdam",
+        "Brazil": "Brasilia",
+    }
+    return countries
+
+
+def dictionaries_add(countries, new_country, new_capital):
+    countries[new_country] = new_capital
+    return countries
+
+
 # Вызов функции strings()
-# strings(input("Ведите Ваше имя: "))
+strings(input("Введите Ваше имя: "))
 
 # Вызов функции integers()
-# print(*integers())
+num1 = int(input("Введите первое число: "))
+num2 = int(input("Введите второе число: "))
+print(*integers(num1, num2))
 
 # Вызов функции celsius_to_fahrenheit()
-# celsius = float(input("Видите температуру в градусах Цельсия для преобразования в градусы Фаренгейта: "))
-# fahrenheit = celsius_to_fahrenheit(celsius)
-# print(f"{celsius}°C ❄️ равно {fahrenheit}°F ❄️")
+celsius = float(input("Введите температуру в градусах Цельсия для преобразования в градусы Фаренгейта: "))
+fahrenheit = celsius_to_fahrenheit(celsius)
+print(f"{celsius}°C ❄️ равно {fahrenheit}°F ❄️")
 
 # Вызов функции booleans()
-# test_number = int(input("Видите число: "))
-# booleans()
-
-# Вызов функции type_list()
-# type_list()
+booleans()
 
 # Вызываем функцию enhanced_fruits()
-# enhanced_fruits()
+enhanced_fruits()
+
+# Вызываем функцию dictionaries()
+initial_countries = dictionaries()
+print("Начальный словарь стран и столиц:")
+print(initial_countries)
+
+# Вызываем функцию dictionaries_add()
+new_country = input("Введите новую страну: ")
+new_capital = input("Введите столицу новой страны: ")
+updated_countries = dictionaries_add(initial_countries, new_country, new_capital)
+print("\nОбновленный словарь стран и столиц:")
+print(updated_countries)
+
 
 
 
